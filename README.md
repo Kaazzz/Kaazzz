@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zakfloreta20@gmail.com**
 
-- ⚡ Fun fact **I'm a kazual guy**
+- ⚡ Fun fact **I love creating digital art using various graphic design softwares. I also do watercolor paintings!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
