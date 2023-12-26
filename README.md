@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaazzz&label=Profile%20views&color=0e75b6&style=flat" alt="kaazzz" /> </p>
 
-- 🌱 I’m currently learning **Python Java, Tailwind, and Javascript**
+- 🌱 I’m currently learning **Python, Java, Tailwind, and Javascript**
 
 - 📫 How to reach me **zakfloreta20@gmail.com**
 
