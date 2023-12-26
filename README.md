@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/e6/d7/20/e6d7207d515a89b34a9b89b0da38c5ab.gif))]
+[[MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/e6/d7/20/e6d7207d515a89b34a9b89b0da38c5ab.gif))]
 
 <h1 align="center">Ola 👋, I'm Zak</h1>
 <h3 align="center">A Computer Science Student from the Philippines</h3>
