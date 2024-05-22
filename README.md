@@ -1,7 +1,7 @@
 ![kazbanner](https://github.com/Kaazzz/Kaazzz/assets/129676323/e21723c8-0fc0-4bf6-82c6-57875d566c8d)
 
 <h1 align="center">Ola 👋, I'm Zak</h1>
-<h3 align="center">A Computer Science Student from the Philippines</h3>
+<h3 align="center">A Sophomore Computer Science Student from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaazzz&label=Profile%20views&color=0e75b6&style=flat" alt="kaazzz" /> </p>
